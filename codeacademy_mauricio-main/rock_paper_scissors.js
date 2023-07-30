@@ -3,7 +3,7 @@ const getUserChoice = userInput => {
   if (userInput === 'rock' || userInput === 'scissors' || userInput === 'paper' || userInput === 'bomb') {
     return userInput;
   } else {
-    console.log('PAREI'); 
+    console.log('PAREI direto pro main'); 
   } 
 }
 
