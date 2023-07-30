@@ -3,7 +3,7 @@ const getUserChoice = userInput => {
   if (userInput === 'rock' || userInput === 'scissors' || userInput === 'paper' || userInput === 'bomb') {
     return userInput;
   } else {
-    console.log('ERRO ESTÁ EM PT'); 
+    console.log('ERRO ESTÁs EM PT'); 
   } 
 }
 
